@@ -15,8 +15,9 @@ Los los datos usados en este proyecto han salido de las siguientes fuentes:
   - https://www.sec.gov/Archives/edgar/data/1318605/000156459015001031/tsla-10k_20141231.htm
   - https://www.sec.gov/Archives/edgar/data/1318605/000119312514069681/d668062d10k.htm
   - https://catalog.data.gov/dataset/electric-vehicle-population-data
-- Other data:
+- Otras fuentes:
   - https://www.statista.com/topics/2086/tesla/
   - https://backlinko.com/tesla-stats
   - https://www.iea.org/data-and-statistics/charts/evolution-of-li-ion-battery-price-1995-2019
   - https://www.economist.com/graphic-detail/2021/03/31/lithium-battery-costs-have-fallen-by-98-in-three-decades
+  - https://www.macrotrends.net/stocks/charts/TSLA/tesla/stock-price-history
